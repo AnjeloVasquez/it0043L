@@ -1,0 +1,55 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    background-image: url(https://anjelovasquez.github.io/it0043tb02/feutech.jpg);
+    background-size: cover;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+header img {
+    display: block;
+    margin: 0 auto;
+}
+
+.advisory {
+    color: green;
+    font-size: 3em;
+    text-align: center;
+}
+
+.title {
+    font-size: 4em;
+    text-align: center;
+}
+
+.strike {
+    color: red;
+    font-weight: bold;
+}
+
+.date {
+    color: rgb(226, 25, 52);
+}
+
+.content {
+    font-size: 1.1em;
+}
+
+.safe {
+    color: green;
+    font-size: 1.2em;
+}
+
+footer {
+    text-align: right;
+}
+
+.techno, .hashtag {
+    font-style: italic;
+}
